@@ -1,0 +1,103 @@
+﻿
+> m2@0.0.0 build
+> vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 2190 modules transformed.
+node.exe : 
+[31mΓ£ù[39m Build 
+failed in 3.69s
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: ([31mΓ£ù[39m   
+  Build failed in 3    
+.69s:String) [], R    
+emoteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+[31merror during 
+build:
+[31m[vite]: Rollup 
+failed to resolve 
+import "react-is" from 
+"C:/Users/meet1/OneDriv
+e/Desktop/M2/node_modul
+es/recharts/es6/util/Re
+actUtils.js".
+This is most likely 
+unintended because it 
+can break your 
+application at runtime.
+If you do want to 
+externalize this 
+module explicitly add 
+it to
+`build.rollupOptions.ex
+ternal`[31m
+    at viteLog (file://
+/C:/Users/meet1/OneDriv
+e/Desktop/M2/node_modul
+es/vite/dist/node/chunk
+s/config.js:33635:57)
+    at file:///C:/Users
+/meet1/OneDrive/Desktop
+/M2/node_modules/vite/d
+ist/node/chunks/config.
+js:33669:73
+    at onwarn (file:///
+C:/Users/meet1/OneDrive
+/Desktop/M2/node_module
+s/@vitejs/plugin-react/
+dist/index.js:76:7)
+    at file:///C:/Users
+/meet1/OneDrive/Desktop
+/M2/node_modules/vite/d
+ist/node/chunks/config.
+js:33669:28
+    at onRollupLog (fil
+e:///C:/Users/meet1/One
+Drive/Desktop/M2/node_m
+odules/vite/dist/node/c
+hunks/config.js:33664:6
+3)
+    at onLog (file:///C
+:/Users/meet1/OneDrive/
+Desktop/M2/node_modules
+/vite/dist/node/chunks/
+config.js:33467:4)
+    at file:///C:/Users
+/meet1/OneDrive/Desktop
+/M2/node_modules/rollup
+/dist/es/shared/node-en
+try.js:20981:32
+    at Object.logger 
+[as onLog] (file:///C:/
+Users/meet1/OneDrive/De
+sktop/M2/node_modules/r
+ollup/dist/es/shared/no
+de-entry.js:22968:9)
+    at ModuleLoader.han
+dleInvalidResolvedId (f
+ile:///C:/Users/meet1/O
+neDrive/Desktop/M2/node
+_modules/rollup/dist/es
+/shared/node-entry.js:2
+1712:26)
+    at file:///C:/Users
+/meet1/OneDrive/Desktop
+/M2/node_modules/rollup
+/dist/es/shared/node-en
+try.js:21670:26[39m

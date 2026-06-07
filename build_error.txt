@@ -1,0 +1,63 @@
+﻿
+> m2@0.0.0 build
+> vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 21 modules transformed.
+node.exe : 
+[31mΓ£ù[39m Build 
+failed in 1.77s
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: ([31mΓ£ù[39m   
+  Build failed in 1    
+.77s:String) [], R    
+emoteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+[31merror during 
+build:
+[31mCould not resolve 
+"../pages/dashboard/Pay
+ment" from "src/routes/
+AppRouter.jsx"[31m
+file: [36mC:/Users/mee
+t1/OneDrive/Desktop/M2/
+src/routes/AppRouter.js
+x[31m
+    at getRollupError (
+file:///C:/Users/meet1/
+OneDrive/Desktop/M2/nod
+e_modules/rollup/dist/e
+s/shared/parseAst.js:40
+2:41)
+    at error (file:///C
+:/Users/meet1/OneDrive/
+Desktop/M2/node_modules
+/rollup/dist/es/shared/
+parseAst.js:398:42)
+    at ModuleLoader.han
+dleInvalidResolvedId (f
+ile:///C:/Users/meet1/O
+neDrive/Desktop/M2/node
+_modules/rollup/dist/es
+/shared/node-entry.js:2
+1710:24)
+    at file:///C:/Users
+/meet1/OneDrive/Desktop
+/M2/node_modules/rollup
+/dist/es/shared/node-en
+try.js:21670:26[39m

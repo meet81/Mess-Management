@@ -1,0 +1,38 @@
+﻿--- Stats Before Leave ---
+{
+  totalStudents: 4,
+  totalStaff: 1,
+  studentsOnLeave: 1,
+  staffOnLeave: 0,
+  expectedStudentsToday: 3,
+  expectedStaffToday: 1,
+  paymentsTotal: 0,
+  feedbackCount: 0,
+  menuItemsCount: 7
+}
+
+--- Stats After Leave Approved (Today) ---
+{
+  totalStudents: 4,
+  totalStaff: 1,
+  studentsOnLeave: 2,
+  staffOnLeave: 0,
+  expectedStudentsToday: 2,
+  expectedStaffToday: 1,
+  paymentsTotal: 0,
+  feedbackCount: 0,
+  menuItemsCount: 7
+}
+
+--- Stats Next Week (Leave passed) ---
+{
+  totalStudents: 4,
+  totalStaff: 1,
+  studentsOnLeave: 0,
+  staffOnLeave: 0,
+  expectedStudentsToday: 4,
+  expectedStaffToday: 1,
+  paymentsTotal: 0,
+  feedbackCount: 0,
+  menuItemsCount: 7
+}

@@ -1,0 +1,565 @@
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\appsettings.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.staticwebassets.endpoints.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.exe
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.deps.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.runtimeconfig.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.pdb
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Humanizer.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.csproj.AssemblyReference.cache
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.AssemblyInfoInputs.cache
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.AssemblyInfo.cs
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\scopedcss\bundle\MessManagement.Api.styles.css
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessMana.F02F1BDF.Up2Date
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\refint\MessManagement.Api.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.pdb
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.genruntimeconfig.cache
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\ref\MessManagement.Api.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.staticwebassets.runtime.json
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\compressed\sglgxtyfze-{0}-swqb51c3u1-swqb51c3u1.gz
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\compressed\sduzitz82f-{0}-m6grplsp71-m6grplsp71.gz
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\compressed\sbty4oz1n9-{0}-25l7ecy9zl-25l7ecy9zl.gz
+C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\obj\Debug\net10.0\compressed\fq133e7jz5-{0}-69kjnsiwqx-69kjnsiwqx.gz
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.csproj.AssemblyReference.cache
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.AssemblyInfoInputs.cache
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.AssemblyInfo.cs
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\appsettings.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.staticwebassets.runtime.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.staticwebassets.endpoints.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.exe
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.deps.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.runtimeconfig.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.pdb
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Humanizer.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\scopedcss\bundle\MessManagement.Api.styles.css
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\compressed\sglgxtyfze-{0}-swqb51c3u1-swqb51c3u1.gz
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\compressed\sduzitz82f-{0}-m6grplsp71-m6grplsp71.gz
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\compressed\sbty4oz1n9-{0}-25l7ecy9zl-25l7ecy9zl.gz
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\compressed\fq133e7jz5-{0}-69kjnsiwqx-69kjnsiwqx.gz
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessMana.F02F1BDF.Up2Date
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\refint\MessManagement.Api.dll
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.pdb
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.genruntimeconfig.cache
+C:\Users\meet1\OneDrive\Desktop\M7\m8\MessManagement.Api\obj\Debug\net10.0\ref\MessManagement.Api.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\appsettings.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.staticwebassets.runtime.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.staticwebassets.endpoints.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.exe
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.deps.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.runtimeconfig.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.pdb
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Humanizer.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.csproj.AssemblyReference.cache
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.AssemblyInfoInputs.cache
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.AssemblyInfo.cs
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\scopedcss\bundle\MessManagement.Api.styles.css
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\compressed\fq133e7jz5-{0}-69kjnsiwqx-69kjnsiwqx.gz
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessMana.F02F1BDF.Up2Date
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\refint\MessManagement.Api.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.pdb
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.genruntimeconfig.cache
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\ref\MessManagement.Api.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\api-build-check\appsettings.Development.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\api-build-check\appsettings.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\api-build-check\MessManagement.Api.staticwebassets.runtime.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\api-build-check\MessManagement.Api.staticwebassets.endpoints.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\api-build-check\MessManagement.Api.deps.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\api-build-check\MessManagement.Api.runtimeconfig.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\api-build-check\MessManagement.Api.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\api-build-check\MessManagement.Api.pdb
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\api-build-check\appsettings.Development.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\api-build-check\appsettings.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\api-build-check\MessManagement.Api.staticwebassets.runtime.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\api-build-check\MessManagement.Api.staticwebassets.endpoints.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\api-build-check\MessManagement.Api.deps.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\api-build-check\MessManagement.Api.runtimeconfig.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\api-build-check\MessManagement.Api.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\api-build-check\MessManagement.Api.pdb
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.csproj.AssemblyReference.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.AssemblyInfoInputs.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.AssemblyInfo.cs
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\scopedcss\bundle\MessManagement.Api.styles.css
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\compressed\qn3qcn8xeh-{0}-fm9f5rd0vc-fm9f5rd0vc.gz
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\compressed\sglgxtyfze-{0}-swqb51c3u1-swqb51c3u1.gz
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\compressed\sduzitz82f-{0}-m6grplsp71-m6grplsp71.gz
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\compressed\s7uemgzwxj-{0}-xn5st9xnzy-xn5st9xnzy.gz
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\compressed\sbty4oz1n9-{0}-pc5qzldxlp-pc5qzldxlp.gz
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\compressed\fq133e7jz5-{0}-69kjnsiwqx-69kjnsiwqx.gz
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessMana.F02F1BDF.Up2Date
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\refint\MessManagement.Api.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.pdb
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\MessManagement.Api.genruntimeconfig.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\b8774a0c53e112c6\MessManagement.Api\obj\Debug\net10.0\ref\MessManagement.Api.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\compressed\oy0rf7s6lk-{0}-w9i2pqk8j5-w9i2pqk8j5.gz
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\compressed\1hpyehd4w7-{0}-1wk3f0a231-1wk3f0a231.gz
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\MessManagement.Api\obj\Debug\net10.0\compressed\sbty4oz1n9-{0}-7k0jp6eqvw-7k0jp6eqvw.gz
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\build-check\appsettings.Development.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\build-check\appsettings.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\build-check\MessManagement.Api.staticwebassets.runtime.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\build-check\MessManagement.Api.staticwebassets.endpoints.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\build-check\MessManagement.Api.exe
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\build-check\MessManagement.Api.deps.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\build-check\MessManagement.Api.runtimeconfig.json
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\build-check\MessManagement.Api.dll
+C:\Users\meet1\Desktop\M7 (2)\M7\m8\build-check\MessManagement.Api.pdb
+C:\Users\meet1\Desktop\M7TempBuild\MessManagement.Api\appsettings.Development.json
+C:\Users\meet1\Desktop\M7TempBuild\MessManagement.Api\appsettings.json
+C:\Users\meet1\Desktop\M7TempBuild\MessManagement.Api\MessManagement.Api.staticwebassets.runtime.json
+C:\Users\meet1\Desktop\M7TempBuild\MessManagement.Api\MessManagement.Api.staticwebassets.endpoints.json
+C:\Users\meet1\Desktop\M7TempBuild\MessManagement.Api\MessManagement.Api.exe
+C:\Users\meet1\Desktop\M7TempBuild\MessManagement.Api\MessManagement.Api.deps.json
+C:\Users\meet1\Desktop\M7TempBuild\MessManagement.Api\MessManagement.Api.runtimeconfig.json
+C:\Users\meet1\Desktop\M7TempBuild\MessManagement.Api\MessManagement.Api.dll
+C:\Users\meet1\Desktop\M7TempBuild\MessManagement.Api\MessManagement.Api.pdb

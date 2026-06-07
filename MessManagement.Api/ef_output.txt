@@ -1,0 +1,53 @@
+﻿Using project 'C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\MessManagement.Api.csproj'.
+Using startup project 'C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\MessManagement.Api.csproj'.
+dotnet msbuild /getProperty:ProjectName /getProperty:AssemblyName /getProperty:DesignAssembly /getProperty:Language /getProperty:OutputPath /getProperty:PlatformTarget /getProperty:ProjectAssetsFile /getProperty:ProjectDir /getProperty:RootNamespace /getProperty:RuntimeFrameworkVersion /getProperty:TargetFileName /getProperty:TargetFrameworkMoniker /getProperty:Nullable /getProperty:TargetFramework /getProperty:TargetPlatformIdentifier /getProperty:Platform /t:ResolvePackageAssets /getItem:RuntimeCopyLocalItems C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\MessManagement.Api.csproj
+dotnet msbuild /getProperty:ProjectName /getProperty:AssemblyName /getProperty:DesignAssembly /getProperty:Language /getProperty:OutputPath /getProperty:PlatformTarget /getProperty:ProjectAssetsFile /getProperty:ProjectDir /getProperty:RootNamespace /getProperty:RuntimeFrameworkVersion /getProperty:TargetFileName /getProperty:TargetFrameworkMoniker /getProperty:Nullable /getProperty:TargetFramework /getProperty:TargetPlatformIdentifier /getProperty:Platform /t:ResolvePackageAssets /getItem:RuntimeCopyLocalItems C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\MessManagement.Api.csproj
+Build started...
+dotnet build C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\MessManagement.Api.csproj /verbosity:quiet /nologo /p:PublishAot=false
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.87
+
+Build succeeded.
+dotnet exec --depsfile C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.deps.json --additionalprobingpath C:\Users\meet1\.nuget\packages --runtimeconfig C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.runtimeconfig.json C:\Users\meet1\.dotnet\tools\.store\dotnet-ef\10.0.3\dotnet-ef\10.0.3\tools\net8.0\any\tools\net8.0\any\ef.dll database update --assembly C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.dll --project C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\MessManagement.Api.csproj --startup-assembly C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0\MessManagement.Api.dll --startup-project C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\MessManagement.Api.csproj --project-dir C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\ --root-namespace MessManagement.Api --language C# --framework net10.0 --design-assembly C:\Users\meet1\.nuget\packages\microsoft.entityframeworkcore.design\10.0.3\lib\net10.0\Microsoft.EntityFrameworkCore.Design.dll --nullable --working-dir C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api --verbose
+Using assembly 'MessManagement.Api'.
+Using startup assembly 'MessManagement.Api'.
+Using application base 'C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\bin\Debug\net10.0'.
+Using working directory 'C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api'.
+Using root namespace 'MessManagement.Api'.
+Using project directory 'C:\Users\meet1\OneDrive\Desktop\M2\MessManagement.Api\'.
+Remaining arguments: .
+Finding DbContext classes...
+Using environment 'Development'.
+Finding IDesignTimeDbContextFactory implementations...
+Finding DbContext classes in the project...
+Found DbContext 'AppDbContext'.
+Finding application service provider in assembly 'MessManagement.Api'...
+Finding Microsoft.Extensions.Hosting service provider...
+Using application service provider from Microsoft.Extensions.Hosting.
+Using context 'AppDbContext'.
+warn: Microsoft.EntityFrameworkCore.Model.Validation[30000]
+      No store type was specified for the decimal property 'Amount' on entity type 'Payment'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+Finding design-time services referenced by assembly 'MessManagement.Api'...
+Finding design-time services referenced by assembly 'MessManagement.Api'...
+No referenced design-time services were found.
+Finding design-time services for provider 'Microsoft.EntityFrameworkCore.SqlServer'...
+Using design-time services from provider 'Microsoft.EntityFrameworkCore.SqlServer'.
+Finding IDesignTimeServices implementations in assembly 'MessManagement.Api'...
+No design-time services were found.
+warn: Microsoft.EntityFrameworkCore.Model.Validation[30000]
+      No store type was specified for the decimal property 'Amount' on entity type 'Payment'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+No store type was specified for the decimal property 'Amount' on entity type 'Payment'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+System.InvalidOperationException: An error was generated for warning 'Microsoft.EntityFrameworkCore.Migrations.PendingModelChangesWarning': The model for context 'AppDbContext' has pending changes. Add a new migration before updating the database. See https://aka.ms/efcore-docs-pending-changes. This exception can be suppressed or logged by passing event ID 'RelationalEventId.PendingModelChangesWarning' to the 'ConfigureWarnings' method in 'DbContext.OnConfiguring' or 'AddDbContext'.
+   at Microsoft.EntityFrameworkCore.Diagnostics.EventDefinition`1.Log[TLoggerCategory](IDiagnosticsLogger`1 logger, TParam arg)
+   at Microsoft.EntityFrameworkCore.Diagnostics.RelationalLoggerExtensions.PendingModelChangesWarning(IDiagnosticsLogger`1 diagnostics, Type contextType)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.Migrator.ValidateMigrations(Boolean useTransaction, String targetMigration)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.Migrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.Design.Internal.MigrationsOperations.UpdateDatabase(String targetMigration, String connectionString, String contextType)
+   at Microsoft.EntityFrameworkCore.Design.OperationExecutor.UpdateDatabaseImpl(String targetMigration, String connectionString, String contextType)
+   at Microsoft.EntityFrameworkCore.Design.OperationExecutor.UpdateDatabase.<>c__DisplayClass0_0.<.ctor>b__0()
+   at Microsoft.EntityFrameworkCore.Design.OperationExecutor.OperationBase.Execute(Action action)
+An error was generated for warning 'Microsoft.EntityFrameworkCore.Migrations.PendingModelChangesWarning': The model for context 'AppDbContext' has pending changes. Add a new migration before updating the database. See https://aka.ms/efcore-docs-pending-changes. This exception can be suppressed or logged by passing event ID 'RelationalEventId.PendingModelChangesWarning' to the 'ConfigureWarnings' method in 'DbContext.OnConfiguring' or 'AddDbContext'.

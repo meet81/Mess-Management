@@ -1,0 +1,40 @@
+﻿--- Submitting Feedback ---
+{
+  id: 4,
+  userId: 2,
+  category: 'Quality',
+  message: 'Test message',
+  status: 'Pending',
+  createdAt: '2026-03-10T05:14:48.6791707Z',
+  user: null
+}
+--- Fetching Feedback ---
+[
+  {
+    id: 4,
+    userId: 2,
+    category: 'Quality',
+    message: 'Test message',
+    status: 'Pending',
+    createdAt: '2026-03-10T05:14:48.6791707',
+    user: null
+  },
+  {
+    id: 3,
+    userId: 2,
+    category: 'Quality',
+    message: 'Test message',
+    status: 'Pending',
+    createdAt: '2026-03-10T05:14:31.6782087',
+    user: null
+  },
+  {
+    id: 2,
+    userId: 2,
+    category: 'Quality',
+    message: 'bvhyvh',
+    status: 'Pending',
+    createdAt: '2026-03-10T05:11:34.6528294',
+    user: null
+  }
+]

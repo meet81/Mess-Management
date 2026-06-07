@@ -1,0 +1,1 @@
+# Currency Replacement: $ to Rs. - COMPLETE\n\n## Steps:\n\n- [x] Create TODO.md for tracking\n- [x] Edit src/pages/dashboard/Payments.jsx (label, table, balance)\n- [x] Edit src/pages/dashboard/Home.jsx (dues stat)\n- [x] Verify changes\n- [x] Test app ready (run `npm run dev`)

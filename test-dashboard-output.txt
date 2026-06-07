@@ -1,0 +1,47 @@
+﻿--- Stats Before Leave ---
+{
+  totalStudents: 6,
+  totalStaff: 1,
+  studentsOnLeave: 3,
+  staffOnLeave: 0,
+  expectedBreakfast: 5,
+  expectedLunch: 6,
+  expectedDinner: 5,
+  expectedStaffToday: 1,
+  paymentsTotal: 0,
+  feedbackCount: 4,
+  menuItemsCount: 7
+}
+
+--- Stats After Leave Approved (Today) ---
+{
+  totalStudents: 6,
+  totalStaff: 1,
+  studentsOnLeave: 4,
+  staffOnLeave: 0,
+  expectedBreakfast: 4,
+  expectedLunch: 6,
+  expectedDinner: 4,
+  expectedStaffToday: 1,
+  paymentsTotal: 0,
+  feedbackCount: 4,
+  menuItemsCount: 7
+}
+Breakfast Expected:  4
+Lunch Expected:  6
+Dinner Expected:  4
+
+--- Stats Next Week (Leave passed) ---
+{
+  totalStudents: 6,
+  totalStaff: 1,
+  studentsOnLeave: 0,
+  staffOnLeave: 0,
+  expectedBreakfast: 6,
+  expectedLunch: 6,
+  expectedDinner: 6,
+  expectedStaffToday: 1,
+  paymentsTotal: 0,
+  feedbackCount: 4,
+  menuItemsCount: 7
+}
