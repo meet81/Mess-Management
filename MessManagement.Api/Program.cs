@@ -60,7 +60,8 @@ builder.Services.AddCors(options =>
     {
         policy.WithOrigins(
                 "http://localhost:5173",
-                "http://localhost:5174"
+                "http://localhost:5174",
+                "https://mess-management2-eight.vercel.app"
             )
             .AllowAnyHeader()
             .AllowAnyMethod()
@@ -126,11 +127,8 @@ using (var scope = app.Services.CreateScope())
 }
 
 // ✅ Swagger
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 // ❌ Use in production only if HTTPS configured
 app.UseHttpsRedirection();
